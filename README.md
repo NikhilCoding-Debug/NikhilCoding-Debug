@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @NikhilCoding-Debug
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👋 Hi there, I'm Nikhil Kumar
 
-<!---
-NikhilCoding-Debug/NikhilCoding-Debug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Founder & CEO of [Kimi Technologies](#)  
+🔭 Passionate about AI, Tech Innovation & Digital Transformation  
+🖋️ Writer at heart | Poet by soul  
+
+### 🔍 Interests  
+- Artificial Intelligence & Prompt Engineering  
+- Cybersecurity (Currently exploring field operations)  
+- Latest Trends in the Tech World  
+- Poetry & Creative Expression  
+
+### 🤝 Looking to Collaborate  
+If you are working on cutting-edge tech, AI systems, cybersecurity applications, or futuristic digital ecosystems — let’s connect and innovate together.  
+
+### 📫 Reach Me  
+📌 DM me on [LinkedIn](https://www.linkedin.com/in/nikhil-kumar-31b914341)
+
+---
+
+🛠️ *“Let’s build what the world will follow.”*
