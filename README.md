@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Nikhil Kumar
 
-🚀 Founder & CEO of [Kimi Technologies](#)  
+🚀 Founder & CEO of [Kimi Technologies] subsidiary under DVNKC Inc.(#)  
 🔭 Passionate about AI, Tech Innovation & Digital Transformation  
 🖋️ Writer at heart | Poet by soul  
 
